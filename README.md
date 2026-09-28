@@ -15,29 +15,28 @@ I enjoy building practical projects, learning how systems work, and improving my
 
 **Languages:** Python, Java, JavaScript, TypeScript, SQL
 
-**Frontend:** React, HTML, CSS
+**Frontend:** React, HTML, CSS,React Native, Expo,
 
-**Backend:** Spring Boot, FastAPI, REST APIs
+**Backend:** Nodejs, Express.js, Django REST Framework,FastAPI, REST APIs, 
 
-**Databases:** PostgreSQL, MySQL
-
+**Databases:** PostgreSQL, MySQL, MongoDB
 **AI/ML:** Machine Learning, LLMs, RAG, LangGraph
 
-**Tools:** Git, GitHub, Docker
+**Tools /CS Fundamentals:** Git, GitHub, Docker,DSA, OOP, DBMS, OS
 
-## 📌 Featured Work
 
 ## 📌 Featured Work
 
 - **Whodo** — Full-stack application focused on organizing complex information into structured and manageable parts
 - **JobReadyIQ** — Career preparation platform designed to help students improve job readiness through structured learning and practice
 - **Geo Attendance Tracker** — Location-based attendance system with validation
+
 ## 🌱 Currently Learning
 
-Java Full Stack • Spring Boot • System Design • AI Engineering
+LLMs • RAG • AI Agents • Neural Networks • Deep Learning
 
 ## 🤝 Open to Opportunities
 
 I'm currently looking for internship and entry-level opportunities in:
 
-**Software Engineering • Backend Development • AI/ML Engineering**
+**Software Engineering • Full Stack Development • Backend Development • Frontend Development • AI/ML Engineering**
